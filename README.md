@@ -19,7 +19,7 @@ This repository contains the MATLAB implementation of the proposed algorithm, al
 'transientplume_crosssection_scanner_algorithm.m'. To solve the problem and perform postprocessing, run the provided script.
 Key considerations:
 1) The script includes a USER section for customization.
-2) The probe data is available at the following URL/DOI: 10.5281/zenodo.13820945
+2) The probe data is available at the following URL/DOI: https://doi.org/10.5281/zenodo.13820945
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
