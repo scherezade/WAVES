@@ -41,9 +41,9 @@ clear all
 %----------------------------------------------------------------------------
 %0.1: Folder paths
 %----------------------------------------------------------------------------
-motherfolder = "D:\XX Mother folder for the Grid study (oct 2023)\X ZENODO\FINAL RECONSTRUCTED SOLUTION SEPTEMBER\"; 
+motherfolder = "D:\"; 
 ZENODOdata = "FinalZENODO_PaperGrid.mat"; % measured data downloaded from ZENODO
-computedsolution_matfile = "FinalZENODO_PaperGrid_computedsolutionTEST.mat"; % to store the ion current density maps j(x,y,t)  and related calculations
+computedsolution_matfile = "FinalZENODO_PaperGrid_computedsolution.mat"; % to store the ion current density maps j(x,y,t)  and related calculations
 
 %----------------------------------------------------------------------------
 %0.2 FLAGS
